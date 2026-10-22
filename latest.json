@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.0.9/OortCodex-Desktop.exe",
-  "name": "1.0.9",
-  "version": "1.0.9",
-  "productVersion": "1.0.9.0",
-  "hash": "9e1df673b1190210240f16624af87dbe70fdd995",
-  "timestamp": 1792135025629,
-  "sha256hash": "7108d93361d1370407371510bb2182f2d35a6a9266720fdf49e74562d7581c14",
-  "logs": "## 1.0.9 \n\n -完善模型列表的显示以及倍率显示  \n\n -企业共享的skills的调整 \n\n -修复一些样式的bug "
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop/releases/download/v1.1.0/OortCodex-Desktop.exe",
+  "name": "1.1.0",
+  "version": "1.1.0",
+  "productVersion": "1.1.0.0",
+  "hash": "1c27c22d0df39732c623a10fdfe56736fa276682",
+  "timestamp": 1792658210588,
+  "sha256hash": "de61862bc1a84d38679f58337d5385761bcc94757338342a26f7eee8febdc6c8",
+  "logs": "## 1.1.0 \n\n -优化企业技能列表预览和Tab样式  \n\n -修复一些bug "
 }
