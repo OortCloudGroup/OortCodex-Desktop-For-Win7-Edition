@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.0/OortCodex-Desktop-win7-x64.exe",
-  "name": "1.1.0",
-  "version": "1.1.0",
-  "productVersion": "1.1.0.0",
-  "hash": "cacf22877290793311f36323e0cbc006fa861718",
-  "timestamp": 1793189500045,
-  "sha256hash": "ea35e8ad8a2e3e8382ba17e347ac4f2f677862a7ad544b5a7fbc08a8deb9a635",
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.1/OortCodex-Desktop-win7-x64.exe",
+  "name": "1.1.1",
+  "version": "1.1.1",
+  "productVersion": "1.1.1.0",
+  "hash": "91760985702fb041cb3cce716cce06221ceab1fc",
+  "timestamp": 1793197575740,
+  "sha256hash": "bf24af68d43d449b9d3b9884665f44eef3a36c63d3cbd5d8b14b5c5e3205219d",
   "logs": "## 1.1.0 \n\n -优化企业技能列表预览和Tab样式  \n\n -修复一些bug "
 }
