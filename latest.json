@@ -6,5 +6,5 @@
   "hash": "91760985702fb041cb3cce716cce06221ceab1fc",
   "timestamp": 1793197575740,
   "sha256hash": "bf24af68d43d449b9d3b9884665f44eef3a36c63d3cbd5d8b14b5c5e3205219d",
-  "logs": "## 1.1.0 \n\n -优化企业技能列表预览和Tab样式  \n\n -修复一些bug "
+  "logs": "## 1.1.1 \n\n -优化性能  \n\n -修复一些bug "
 }
