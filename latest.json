@@ -1,10 +1,10 @@
 {
-  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.1/OortCodex-Desktop-win7-x64.exe",
+  "url": "https://gitcode.com/OortCloudGroup/OortCodex-Desktop-For-Win7-Edition/releases/download/v1.1.0/OortCodex-Desktop-win7-x64.exe",
   "name": "1.1.0",
   "version": "1.1.0",
   "productVersion": "1.1.0.0",
-  "hash": "91760985702fb041cb3cce716cce06221ceab1fc",
-  "timestamp": 1793197575740,
-  "sha256hash": "bf24af68d43d449b9d3b9884665f44eef3a36c63d3cbd5d8b14b5c5e3205219d",
+  "hash": "e140833dcf21d0c599a13eb873cc1fd6e0232fb7",
+  "timestamp": 1793260760196,
+  "sha256hash": "846f841868a238585493101417c8a518a515557853a78ce0e2cf6c367298172f",
   "logs": "## 1.1.0 \n\n -优化性能  \n\n -修复一些bug "
 }
